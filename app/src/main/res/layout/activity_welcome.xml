@@ -46,7 +46,7 @@
         android:layout_height="56dp"
         android:text="Register"
         android:id="@+id/goToSigInScreen"
-        android:textColor="#fff"
+   l     android:textColor="#fff"
         android:layout_gravity="center"
         android:layout_marginTop="20dp"/>
 
